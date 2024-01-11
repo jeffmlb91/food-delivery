@@ -16,7 +16,7 @@ export default function HomeScreen() {
           <TextInput placeholder="Restaurants" style={tw `ml-2 flex-1`}/>
           <View style={tw `flex-row items-center space-x-1 border-0 border-l-2 pl-2 border-l-gray-300`}>
             <Icon.MapPin height="20" width="20" stroke="gray"/>
-            <Text style={tw `text-gray-600`}>Toronto</Text>
+            <Text style={tw `text-gray-600`}>Atlanta</Text>
           </View>
         </View>
       </View>
